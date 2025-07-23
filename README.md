@@ -1,7 +1,7 @@
 # Sales_Forecasting_Perfumora
 
 # 📊 Sales Forecasting & Inventory Optimization Pipeline
-
+https://lookerstudio.google.com/reporting/9a9fa43a-bfe9-4e77-8031-f25a44ea7302
 This project is an end-to-end data analytics pipeline designed to automate sales forecasting, inventory restocking, and sourcing decisions. It leverages Python, machine learning, PostgreSQL (Neon), Google Sheets, and Looker Studio to streamline retail operations.
 
 ---
