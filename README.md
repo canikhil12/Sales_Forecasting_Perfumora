@@ -43,11 +43,4 @@ We implemented a modular pipeline that:
 - **Looker Studio** for dashboard
 - **Git & GitHub** for version control
 
----
 
-## 🔁 Pipeline Steps
-
-1. **Mount Google Drive & Load Scripts**
-   ```python
-   from google.colab import drive
-   drive.mount('/content/drive')
